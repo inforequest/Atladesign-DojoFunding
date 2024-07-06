@@ -4800,7 +4800,7 @@ figcaption {
 .dot-number-wrapper {
   grid-column-gap: .5rem;
   grid-row-gap: .5rem;
-  display: flex
+  display: none;
 }
 
 .dot-embed {
@@ -10849,6 +10849,7 @@ figcaption {
   .section_home-hero {
     padding-top: 6.875rem;
     padding-bottom: 0
+    margin-bottom: -6rem;
   }
 
   .section_home-hero.is-careers {
