@@ -2212,7 +2212,7 @@ textarea.w-select {
 :root {
   --base-color-brand--white: #fff;
   --text-color--text-primary: var(--base-color-neutral--black);
-  --base-color-brand--gray-900: ##51706b;
+  --base-color-brand--gray-900: #1f2827;
   --base-color-brand--gray-dark2: #424243;
   --link-color--link-primary: var(--base-color-neutral--black);
   --light-hero-bg: #f4f3f7;
@@ -2225,7 +2225,7 @@ textarea.w-select {
   --base-color-neutral--white: white;
   --base-color-brand--gray2: #efedf5;
   --black-archive\<deleted\|variable-dccb7db6\>: black;
-  --base-color-brand--black: #161616;
+  --base-color-brand--black: #51706b;
   --background-color--background-secondary: var(--base-color-neutral--neutral-lightest);
   --background-color--background-alternate: var(--base-color-neutral--black);
   --link-color--link-alternate: var(--base-color-neutral--white);
