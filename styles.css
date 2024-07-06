@@ -11359,7 +11359,8 @@ figcaption {
 
   .evals-logos_logo-wrapper.is-left {
     object-position: 50% 50%;
-    margin-right: 0
+    margin-right: 0;
+    display:none
   }
 
   .evals-logos_logo-wrapper.is-left.isn26 {
