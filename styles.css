@@ -6692,7 +6692,7 @@ figcaption {
   margin-right: 2.5rem
 }
 
-.evals-logos_logo-wrapper.is-left {
+.evals-logos_logo-wrappermobile {
   object-position: 0% 50%;
   margin-right: auto
 }
@@ -11359,8 +11359,7 @@ figcaption {
 
   .evals-logos_logo-wrapper.is-left {
     object-position: 50% 50%;
-    margin-right: 0;
-    display:none
+    margin-right: 0
   }
 
   .evals-logos_logo-wrapper.is-left.isn26 {
@@ -12624,6 +12623,12 @@ figcaption {
 
   #w-node-b4060ff8-a74c-ed84-1091-d74af93ec7c2-20fa3720 {
     grid-row: span 1/span 1
+  }
+
+  .evals-logos_logo-wrappermobile{
+    object-position: 50% 50%;
+    margin-right: 0;
+    display:none
   }
 }
 
