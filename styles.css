@@ -2212,8 +2212,8 @@ html {
   :root {
     --base-color-brand--white: #fff;
     --text-color--text-primary: var(--base-color-neutral--black);
-    --base-color-brand--gray-900: #171717;
-    --base-color-brand--gray-dark2: #424243;
+    --base-color-brand--gray-900: #E5F6F4;
+    --base-color-brand--gray-dark2: #E5F6F4;
     --link-color--link-primary: var(--base-color-neutral--black);
     --light-hero-bg: #f4f3f7;
     --base-color-brand--white40: rgba(255, 255, 255, .4);
@@ -2221,11 +2221,11 @@ html {
     --base-color-brand--green1: #00bd83;
     --border-color--border-primary: var(--base-color-neutral--black);
     --base-color-brand--white06: rgba(255, 255, 255, .06);
-    --base-color-neutral--black: black;
+    --base-color-neutral--black: E5F6F4;
     --base-color-neutral--white: white;
     --base-color-brand--gray2: #efedf5;
     --black-archive\<deleted\|variable-dccb7db6\>: black;
-    --base-color-brand--black: #161616;
+    --base-color-brand--black: #E5F6F4;
     --background-color--background-secondary: var(--base-color-neutral--neutral-lightest);
     --background-color--background-alternate: var(--base-color-neutral--black);
     --link-color--link-alternate: var(--base-color-neutral--white);
