@@ -4574,6 +4574,7 @@ figcaption {
   justify-content: center;
   align-items: center;
   height: 1.5rem;
+  display:none !important;
   display: flex
 }
 
@@ -4900,6 +4901,7 @@ figcaption {
   flex-direction: row;
   justify-content: center;
   align-items: center;
+  display:none !important;
   padding-left: .375rem;
   padding-right: .375rem;
   text-decoration: none;
