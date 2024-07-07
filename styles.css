@@ -240,6 +240,10 @@ th {
   content: ""
 }
 
+.button-block-secondary opacity-60none{
+  display:none
+}
+
 .w-icon-file-upload-remove:before {
   content: ""
 }
