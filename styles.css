@@ -2085,7 +2085,7 @@ textarea.w-select {
 .w-nav[data-collapse=all] .w-nav-button,
 .w--nav-dropdown-open,
 .w--nav-dropdown-toggle-open {
-  display: block
+  display: none
 }
 
 .w--nav-dropdown-list-open {
@@ -2108,7 +2108,7 @@ textarea.w-select {
   }
 
   .w-nav[data-collapse=small] .w-nav-button {
-    display: block
+    display: none
   }
 
   .w-nav-brand {
@@ -2122,7 +2122,7 @@ textarea.w-select {
   }
 
   .w-nav[data-collapse=tiny] .w-nav-button {
-    display: block
+    display: none
   }
 }
 
