@@ -2319,6 +2319,7 @@ h3 {
   margin-bottom: 0;
   font-family: Overused Grotesk, sans-serif;
   font-size: 2.5rem;
+  text-align: center;
   font-weight: 500;
   line-height: 1.2
 }
@@ -4763,7 +4764,7 @@ figcaption {
 }
 
 .spacer-100 {
-  padding-top: 6.25rem
+  padding-top: 4.25rem
 }
 
 .container-1324 {
@@ -5146,7 +5147,7 @@ figcaption {
 }
 
 .spacer-142-120-mobile {
-  padding-top: 8.875rem
+  padding-top: 0.875rem
 }
 
 ._2-cards-component {
@@ -8408,7 +8409,7 @@ figcaption {
 .cards-video,
 .eval-video,
 .footer-video {
-  display: block
+  display: none
 }
 
 .section_subpage-hero {
