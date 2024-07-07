@@ -4905,7 +4905,7 @@ figcaption {
   padding-left: .375rem;
   padding-right: .375rem;
   text-decoration: none;
-  display: flex;
+  display: none;
   position: relative;
   overflow: hidden
 }
