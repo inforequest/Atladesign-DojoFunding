@@ -4578,6 +4578,13 @@ figcaption {
   justify-content: center;
   align-items: center;
   height: 1.5rem;
+  display: flex
+}
+.dot-iconnav {
+  color: #fff;
+  justify-content: center;
+  align-items: center;
+  height: 1.5rem;
   display:none !important;
   display: flex
 }
