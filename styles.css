@@ -9172,7 +9172,8 @@ figcaption {
   }
 
   .blob-evals {
-    right: -4.1rem
+    right: -4.1rem;
+    display:none;
   }
 
   .blob-evals.is-2 {
@@ -9998,7 +9999,8 @@ figcaption {
   }
 
   .blob-evals {
-    right: 0%
+    right: 0%;
+    display:none
   }
 
   .header_3d-wrapper {
@@ -11306,7 +11308,8 @@ figcaption {
   }
 
   .blob-evals {
-    top: -15%
+    top: -15%;
+    display:none
   }
 
   .blob-evals.is-2 {
@@ -12231,7 +12234,8 @@ figcaption {
   .blob-evals {
     width: 9rem;
     top: -5%;
-    left: 51%
+    left: 51%;
+    display:none
   }
 
   .hero_header-wrapper.is-legal {
