@@ -145,6 +145,10 @@ input[type=reset] {
   cursor: pointer
 }
 
+a#w-node-_84357237-5f48-cec8-938a-6db6257be753-06c321c78 {
+  display: none;
+}
+
 button[disabled],
 html input[disabled] {
   cursor: default
