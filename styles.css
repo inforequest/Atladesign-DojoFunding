@@ -6559,7 +6559,7 @@ figcaption {
 }
 
 .header_3d-wrapper.is-dark-bg {
-  top: -3%;
+  top: 80%;
   right: -28%
 }
 
@@ -9152,6 +9152,11 @@ figcaption {
     padding-right: 3.75rem
   }
 
+  .partnership{
+    max-width: 66%;
+    display: inline-block;
+  }
+
   .contact-form-content {
     grid-column-gap: 10rem;
     grid-row-gap: 10rem
@@ -9200,12 +9205,22 @@ figcaption {
     padding-left: 0;
     padding-right: 0
   }
+  
+  .partnership{
+    max-width: 66%;
+    display: inline-block;
+  }
 }
 
 @media screen and (min-width:1920px) {
   .glob-hero {
     position: relative;
     right: -.625rem
+  }
+
+  .partnership{
+    max-width: 66%;
+    display: inline-block;
   }
 
   .glob-footer {
