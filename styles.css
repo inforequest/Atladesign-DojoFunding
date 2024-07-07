@@ -540,7 +540,9 @@ button,
   -webkit-appearance: button;
   border: 0
 }
-
+.btn_main_innera.is-darknone {
+  display: none;
+}
 .w-form {
   margin: 0 0 15px
 }
