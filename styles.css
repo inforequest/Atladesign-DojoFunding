@@ -9668,7 +9668,12 @@ figcaption {
   }
 
   .section_home-hero {
-    padding-bottom: 16rem
+    padding-bottom: 5rem
+  }
+
+  .partner{
+    max-width: 321%;
+    display: inline-block;
   }
 
   .section_home-hero.is-careers {
@@ -10011,7 +10016,8 @@ figcaption {
   }
 
   .header_3d-wrapper.is-dark-bg {
-    top: 39%
+    top: 66%;
+    left:0%
   }
 
   .gray1-shape_wrapper,
