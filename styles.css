@@ -3196,7 +3196,9 @@ figcaption {
 }
 
 .text-subheading.text-color-dark-gray2 {
-  color: var(--base-color-brand--gray-dark2)
+  color: var(--base-color-brand--gray-dark2);
+  margin-bottom: 2rem;
+  text-align: center;
 }
 
 .text-subheading.text-color-dark-gray2.is-center {
@@ -5636,8 +5638,6 @@ figcaption {
 
 .text-subheading-2.text-color-dark-gray2 {
   color: #424243;
-  margin-bottom: 2rem;
-    text-align: center
 }
 
 .text-subheading-3 {
@@ -6657,7 +6657,7 @@ figcaption {
 .evals-bottom_wrapper {
   background-color: var(--base-color-brand--gray2);
   border-radius: 1rem;
-  padding-top: 6.25rem;
+  padding-top: 5.25rem;
   padding-bottom: 3.75rem
 }
 
