@@ -4328,6 +4328,9 @@ figcaption {
   align-items: center;
   display: flex
 }
+.btn_main_innera is-darknone{
+  display:none
+}
 
 .btn_main_wrap {
   text-decoration: none;
