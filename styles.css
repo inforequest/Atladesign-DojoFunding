@@ -2098,7 +2098,7 @@ textarea.w-select {
   }
 
   .w-nav[data-collapse=medium] .w-nav-button {
-    display: block
+    display: none
   }
 }
 
@@ -4580,7 +4580,7 @@ figcaption {
   height: 1.5rem;
   display: flex
 }
-.dot-iconnav {
+.dot-iconnnav {
   color: #fff;
   justify-content: center;
   align-items: center;
