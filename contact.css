@@ -9694,7 +9694,8 @@ figcaption {
     }
 
     .header_content.is-contact {
-        padding-top: 0
+        padding-top: 0;
+        padding-bottom:0rem
     }
 
     .header_image-wrapper {
@@ -10871,7 +10872,8 @@ figcaption {
     }
 
     .header_content.is-contact {
-        padding-top: 0
+        padding-top: 0;
+        padding-bottom:0rem
     }
 
     .header_content.is-narrow.is-fix {
