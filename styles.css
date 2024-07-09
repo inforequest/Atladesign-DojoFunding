@@ -5407,6 +5407,13 @@ figcaption {
   display: flex
 }
 
+.button1-link {
+  grid-column-gap: .125rem;
+  grid-row-gap: .125rem;
+  text-decoration: none;
+  display: none
+}
+
 .spacer-16 {
   height: 1rem
 }
