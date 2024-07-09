@@ -5402,13 +5402,13 @@ figcaption {
   text-decoration: none;
   display: flex
 }
-.button-linknone{
+/*.button-linknone{
   grid-column-gap: .125rem;
   grid-row-gap: .125rem;
   text-decoration: none;
   display: none
 }
-
+*/
 .spacer-16 {
   height: 1rem
 }
