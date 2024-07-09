@@ -4912,7 +4912,7 @@ figcaption {
   flex-direction: row;
   justify-content: center;
   align-items: center;
-
+  display:none !important;
   padding-left: .375rem;
   padding-right: .375rem;
   text-decoration: none;
