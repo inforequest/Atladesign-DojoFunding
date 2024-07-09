@@ -4916,7 +4916,8 @@ figcaption {
   padding-right: .375rem;
   text-decoration: none;
   position: relative;
-  overflow: hidden
+  overflow: hidden;
+  display: flex
 }
 
 .button-text {
