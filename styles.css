@@ -2094,11 +2094,11 @@ textarea.w-select {
 
 @media screen and (max-width:991px) {
   .w-nav[data-collapse=medium] .w-nav-menu {
-    display: none
+      display: none
   }
 
   .w-nav[data-collapse=medium] .w-nav-button {
-    display: none
+      display: block
   }
 }
 
@@ -2108,7 +2108,7 @@ textarea.w-select {
   }
 
   .w-nav[data-collapse=small] .w-nav-button {
-    display: none
+    display: block
   }
 
   .w-nav-brand {
@@ -2122,8 +2122,7 @@ textarea.w-select {
   }
 
   .w-nav[data-collapse=tiny] .w-nav-button {
-    display: none
-  }
+    display: block
 }
 
 .w-tabs {
