@@ -3544,11 +3544,7 @@ figcaption {
   grid-column-gap: 1rem;
   grid-row-gap: 1rem
 }
-.button-group.gap-17 {
-  grid-column-gap: 1rem;
-  grid-row-gap: 1rem;
-  display:none
-}
+
 .text-color-white {
   color: var(--base-color-neutral--white)
 }
@@ -4919,9 +4915,9 @@ figcaption {
   padding-left: .375rem;
   padding-right: .375rem;
   text-decoration: none;
+  display: none;
   position: relative;
-  overflow: hidden;
-  display: flex
+  overflow: hidden
 }
 
 .button-text {
@@ -5405,13 +5401,6 @@ figcaption {
   grid-row-gap: .125rem;
   text-decoration: none;
   display: flex
-}
-
-.button1-link {
-  grid-column-gap: .125rem;
-  grid-row-gap: .125rem;
-  text-decoration: none;
-  display: none
 }
 
 .spacer-16 {
@@ -10919,8 +10908,8 @@ figcaption {
 
   .section_home-hero {
     padding-top: 6.875rem;
-    padding-bottom: 0;
-    margin-bottom: -6rem
+    padding-bottom: 0
+    margin-bottom: -6rem;
   }
 
   .section_home-hero.is-careers {
