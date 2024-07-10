@@ -4915,9 +4915,9 @@ figcaption {
   padding-left: .375rem;
   padding-right: .375rem;
   text-decoration: none;
-  display: none;
   position: relative;
-  overflow: hidden
+  overflow: hidden;
+  display: flex
 }
 
 .button-text {
@@ -5401,6 +5401,12 @@ figcaption {
   grid-row-gap: .125rem;
   text-decoration: none;
   display: flex
+}
+.button1-link {
+  grid-column-gap: .125rem;
+  grid-row-gap: .125rem;
+  text-decoration: none;
+  display: none
 }
 
 .spacer-16 {
